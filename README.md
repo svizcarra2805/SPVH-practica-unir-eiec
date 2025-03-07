@@ -12,4 +12,7 @@ python3 main.py <filename> <dup>
   filename: **ruta** al fichero que contiene la lista de palabras, una por línea
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
 --07/03/2025
+desa-funcionalidad1
+Este es un comentario del Desarrollador sobre el archivo Readme
+admi-funcionalidad2
 Este es un comentario del Admi sobre el archivo README para validar la funcionalidad de pull request
